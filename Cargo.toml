@@ -1,0 +1,17 @@
+[package]
+name = "syfo"
+version = "0.1.0"
+authors = ["gummyniki <github.com/gummyniki>"]
+edition = "2021"
+description = "A minimal Rust GUI system monitor built with egui"
+readme = "README.md"
+license = "MIT"
+repository = "https://github.com/yourname/syfo"
+keywords = ["system", "monitor", "gui", "egui"]
+categories = ["gui", "visualization"]
+
+[dependencies]
+eframe = "0.31.1"           # for egui desktop apps
+egui = "0.31.1"             # GUI framework
+sysinfo = "0.35.1"  # system info
+
