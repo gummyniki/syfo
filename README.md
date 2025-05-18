@@ -27,7 +27,14 @@ cargo run --release
 
 ```
 
-*insert image here*
+### Screenshot
+
+![image](https://github.com/user-attachments/assets/db210c61-0ec7-4ba5-8977-9e86e7967475)
+
+
+
+
+
 
 
 ### Why?
