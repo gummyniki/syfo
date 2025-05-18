@@ -6,7 +6,7 @@ edition = "2021"
 description = "A minimal Rust GUI system monitor built with egui"
 readme = "README.md"
 license = "MIT"
-repository = "https://github.com/yourname/syfo"
+repository = "https://github.com/gummyniki/syfo"
 keywords = ["system", "monitor", "gui", "egui"]
 categories = ["gui", "visualization"]
 
